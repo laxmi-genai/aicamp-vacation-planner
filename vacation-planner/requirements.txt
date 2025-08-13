@@ -1,0 +1,4 @@
+google-adk>=1.10.0
+mcp-flight-search
+python-dotenv
+httpx
