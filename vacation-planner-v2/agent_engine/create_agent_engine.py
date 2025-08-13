@@ -25,4 +25,3 @@ client = vertexai.Client(
 
 
 agent_engine = client.agent_engines.create()
-print(agent_engine)
